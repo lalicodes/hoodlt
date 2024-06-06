@@ -1,0 +1,17 @@
+
+# Any documents in the Pycharm configuration folder (.idea).
+.idea/
+.idea/**
+
+# Any pycache folders and content therein.
+**__pycache__/
+**__pycache__/**
+
+# The hoodlt.egg-info folder and content therein
+**hoodlt.egg-info
+**hoodlt.egg-info/**
+
+# Exclude the generated documentation.
+HoodltDocs
+HoodltDocs/**
+

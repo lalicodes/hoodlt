@@ -1,3 +1,0 @@
-# hoodlt
-
-Welcome to Hoodlt!!
